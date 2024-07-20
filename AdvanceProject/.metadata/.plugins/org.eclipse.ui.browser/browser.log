@@ -1,0 +1,22 @@
+
+Mar 16, 2024 17:01:42.33 NEW SESSION
+Mar 16, 2024 17:01:42.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 17, 2024 08:07:52.33 [5988:19940:0317/080752.330:ERROR:device_event_log_impl.cc(192)] [08:07:52.332] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 17, 2024 12:32:18.38 [5988:19940:0317/123218.378:ERROR:device_event_log_impl.cc(192)] [12:32:18.378] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 18, 2024 12:41:02.23 NEW SESSION
+Mar 18, 2024 12:41:02.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2024 12:48:59.99 [5344:11324:0318/124859.992:ERROR:device_event_log_impl.cc(192)] [12:48:59.991] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 18, 2024 19:48:31.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 19, 2024 09:32:24.74 [26648:23132:0319/093224.747:ERROR:device_event_log_impl.cc(192)] [09:32:24.732] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 19, 2024 09:32:24.74 [26648:23132:0319/093224.747:ERROR:device_event_log_impl.cc(192)] [09:32:24.734] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 19, 2024 09:32:29.06 [26648:23132:0319/093229.064:ERROR:device_event_log_impl.cc(192)] [09:32:29.051] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 19, 2024 20:18:08.15 NEW SESSION
+Mar 19, 2024 20:18:08.15 [5656:9308:0319/201808.153:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
+Mar 19, 2024 20:18:09.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2024 12:23:22.47 [5656:11660:0320/122322.476:ERROR:device_event_log_impl.cc(192)] [12:23:22.475] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 23, 2024 18:18:58.95 NEW SESSION
+Mar 23, 2024 18:18:58.95 [14752:11240:0323/181858.952:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
+Mar 23, 2024 18:19:00.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
